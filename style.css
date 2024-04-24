@@ -1,0 +1,112 @@
+table {
+    height: 600px;
+    width: 600px;
+    margin: auto;
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+
+.green {
+    height: 40px;
+    width: 40px;
+    background-color: green;
+}
+.gm1t {
+    background-color: green;
+    border: 12px solid white;
+}
+.gm2t {
+    background-color: green;
+    border: 12px solid white;
+}
+.gm3t {
+    background-color: green;
+    border: 12px solid white;
+}
+.gm4t {
+    background-color: green;
+    border: 12px solid white;
+}
+
+
+.yellow {
+    height: 40px;
+    width: 40px;
+    background-color: rgb(252, 173, 2);
+}
+.ym1t {
+    background-color: rgb(252, 173, 2);
+    border: 12px solid white;
+}
+.ym2t {
+    background-color: rgb(252, 173, 2);
+    border: 12px solid white;
+}
+.ym3t {
+    background-color: rgb(252, 173, 2);
+    border: 12px solid white;
+}
+.ym4t {
+    background-color: rgb(252, 173, 2);
+    border: 12px solid white;
+}
+
+
+.red {
+    height: 40px;
+    width: 40px;
+    background-color: red;
+}
+.rm1t {
+    background-color: red;
+    border: 12px solid white;
+}
+.rm2t {
+    background-color: red;
+    border: 12px solid white;
+}
+.rm3t {
+    background-color: red;
+    border: 12px solid white;
+}
+.rm4t {
+    background-color: red;
+    border: 12px solid white;
+}
+
+
+.blue {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+}
+.bm1t {
+    background-color: blue;
+    border: 12px solid white;
+}
+.bm2t {
+    background-color: blue;
+    border: 12px solid white;
+}
+.bm3t {
+    background-color: blue;
+    border: 12px solid white;
+}
+.bm4t {
+    background-color: blue;
+    border: 12px solid white;
+}
+
+
+.square {
+    /* border: 2px solid black; */
+}
+
+.border {
+    border: 3px solid black;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
